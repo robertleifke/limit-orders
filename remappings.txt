@@ -1,0 +1,6 @@
+@openzeppelin/=lib/periphery-next/lib/openzeppelin-contracts/
+@uniswap/v4-core/=lib/periphery-next/lib/v4-core/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+periphery-next/=lib/periphery-next/contracts/
+solmate/=lib/periphery-next/lib/solmate/src/
