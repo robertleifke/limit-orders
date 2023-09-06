@@ -23,7 +23,7 @@ Convert `sqrtPriceX96` to `sqrtPrice` by dividing $2^{96}$. Read more here:
 
 https://blog.uniswap.org/uniswap-v3-math-primer
 
-## Usage
+## Local Deployment and Usage
 
 ### Build
 
