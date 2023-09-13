@@ -1,4 +1,4 @@
-# Uniswap V4 Hook Example
+# Limit Order Hook on Uniswap V4
 
 Custom hook logic for placing a **limit order** on any Uniswap v4 *concentrated liquidity* pool.
 
